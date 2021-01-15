@@ -1,0 +1,33 @@
+.root {
+    -fx-background-color: #41d0cd;
+}
+
+.upperBG {
+    -fx-background-color: #024c4c;
+}
+
+.text-field {
+    -fx-font-size: 15;
+    -fx-font-family: 'Open Sans', serif;
+    -fx-font-weight: bold;
+}
+
+.text {
+    -fx-font-size: 15;
+    -fx-font-family: 'Open Sans', serif;
+    -fx-font-weight: bold;
+}
+
+.check-box {
+    -fx-font-size: 15;
+    -fx-font-family: 'Open Sans', serif;
+    -fx-font-weight: bold;
+}
+
+.table-view {
+    -fx-background-color: #03ae80;
+}
+
+.combo-box {
+   
+}
